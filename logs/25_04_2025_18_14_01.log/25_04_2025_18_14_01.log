@@ -1,0 +1,13 @@
+[ 2025-04-25 18:14:01,669 ] 262 FastMCP.fastmcp.server.server - INFO - Starting server "Main"...
+[ 2025-04-25 18:14:05,035 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+[ 2025-04-25 18:14:16,157 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:15:39,023 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:15:39,683 ] 104 root - INFO - Task 3 updated successfully!
+[ 2025-04-25 18:16:13,587 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:17:54,227 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:19:16,210 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:19:16,218 ] 136 root - INFO - Task 2 deleted successfully!
+[ 2025-04-25 18:19:54,065 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+[ 2025-04-25 18:20:00,747 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:21:06,744 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:23:22,748 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest

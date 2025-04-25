@@ -1,0 +1,9 @@
+[ 2025-04-25 18:07:02,218 ] 262 FastMCP.fastmcp.server.server - INFO - Starting server "Main"...
+[ 2025-04-25 18:07:07,939 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+[ 2025-04-25 18:07:23,435 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:08:01,691 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:08:01,695 ] 140 root - ERROR - Error occurred while deleting task: operator does not exist: boolean = integer
+LINE 4:             WHERE id = 2 AND active = 1;
+                                            ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+

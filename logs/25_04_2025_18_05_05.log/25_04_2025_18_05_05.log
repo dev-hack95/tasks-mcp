@@ -1,0 +1,10 @@
+[ 2025-04-25 18:05:05,321 ] 262 FastMCP.fastmcp.server.server - INFO - Starting server "Main"...
+[ 2025-04-25 18:05:09,021 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+[ 2025-04-25 18:05:34,711 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:05:34,711 ] 59 root - ERROR - Error occurred while getting all active tasks: 'NoneType' object has no attribute 'cursor'
+[ 2025-04-25 18:05:39,739 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:05:39,739 ] 59 root - ERROR - Error occurred while getting all active tasks: 'NoneType' object has no attribute 'cursor'
+[ 2025-04-25 18:05:44,205 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:05:44,205 ] 59 root - ERROR - Error occurred while getting all active tasks: 'NoneType' object has no attribute 'cursor'
+[ 2025-04-25 18:05:49,120 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:05:49,120 ] 59 root - ERROR - Error occurred while getting all active tasks: 'NoneType' object has no attribute 'cursor'

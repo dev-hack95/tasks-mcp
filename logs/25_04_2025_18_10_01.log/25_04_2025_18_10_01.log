@@ -1,0 +1,14 @@
+[ 2025-04-25 18:10:01,401 ] 262 FastMCP.fastmcp.server.server - INFO - Starting server "Main"...
+[ 2025-04-25 18:10:04,236 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+[ 2025-04-25 18:10:10,048 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:10:52,974 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:12:29,547 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:12:29,548 ] 108 root - ERROR - Error occurred while updating task: syntax error at or near "WHERE"
+LINE 4:             WHERE id = 3 WHERE active = true;
+                                 ^
+
+[ 2025-04-25 18:12:40,029 ] 534 mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+[ 2025-04-25 18:12:40,033 ] 108 root - ERROR - Error occurred while updating task: syntax error at or near "WHERE"
+LINE 4:             WHERE id = 3 WHERE active = true;
+                                 ^
+
